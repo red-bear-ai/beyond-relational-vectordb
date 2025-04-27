@@ -3,7 +3,7 @@
 ## Overview
 This lab is designed to guide students through the process of integrating vector databases with traditional relational databases to enhance data analytics.  You will learn how to leverage the strengths of both technologies:
 * Relational Databases: For structured data, complex transactions, and data integrity.
- Vector Databases: For efficient similarity search and handling of high-dimensional vector embeddings generated from unstructured data (e.g., text, images).
+* Vector Databases: For efficient similarity search and handling of high-dimensional vector embeddings generated from unstructured data (e.g., text, images).
 
 By the end of this lab, you will be able to:
 * Understand the differences between relational and vector databases.
