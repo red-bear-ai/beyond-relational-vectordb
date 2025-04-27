@@ -1,0 +1,15 @@
+boto3
+langchain
+langchain-chroma
+langchain-community
+langchain-experimental
+langchain-huggingface
+numpy
+python-dotenv # load environment variables
+pydantic
+pydantic_core
+pandas
+pandasql
+jupyter
+ipykernel
+xlrd # read excel files
